@@ -13,6 +13,8 @@ dependencies = [
     "crewai~=0.76.9",
     "distro~=1.9.0",
     "openai~=1.20.0",
+    "groq~=0.11.0",
+    "pydantic~=2.9.2",
     "tqdm~=4.66.2"
 ]
 
